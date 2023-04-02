@@ -1,4 +1,4 @@
-<h1>Roblox Scripts Collections [Updated 01/04/2023]</h1>
+<h1>Roblox Scripts Collections [Updated 02/04/2023]</h1>
 
 <h3>1 Blocks Every Second</h3>
 <ul><li><a href="https://rbloxscripts.com/1-blocks-every-second-auto-farm-auto-buy-more-script/">1 Blocks Every Second Auto Farm, Auto Buy, More Script</a></li>
@@ -33,6 +33,8 @@
 <li><a href="https://rbloxscripts.com/adopt-me-pet-farm-babyfarm-auto-buy-ginger-bread-farm-etc-script/">Adopt Me Pet Farm, BabyFarm, Auto Buy, Ginger Bread Farm, Etc Script</a></li>
 </ul><h3>Aggressive Multiplayer</h3>
 <ul><li><a href="https://rbloxscripts.com/aggressive-multiplayer-collect-orbs-script/">Aggressive Multiplayer Collect Orbs Script</a></li>
+</ul><h3>Airplane Simulator</h3>
+<ul><li><a href="https://rbloxscripts.com/airplane-simulator-auto-collect-eggs-script/">Airplane Simulator Auto Collect Eggs Script</a></li>
 </ul><h3>All Star Tower Defense</h3>
 <ul><li><a href="https://rbloxscripts.com/all-star-tower-defense-auto-upgrade-script/">All Star Tower Defense Auto Upgrade Script</a></li>
 </ul><h3>Allusions</h3>
@@ -75,6 +77,8 @@
 <ul><li><a href="https://rbloxscripts.com/anime-souls-simulator-auto-farm-script/">Anime Souls Simulator Auto Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/anime-souls-simulator-auto-quest-script/">Anime Souls Simulator Auto Quest Script</a></li>
 <li><a href="https://rbloxscripts.com/anime-souls-simulator-gui-script/">Anime Souls Simulator GUI Script</a></li>
+</ul><h3>Ants Simulator</h3>
+<ul><li><a href="https://rbloxscripts.com/ants-simulator-auto-collect-tokens-script/">Ants Simulator Auto Collect Tokens Script</a></li>
 </ul><h3>Apocalypse Tycoon</h3>
 <ul><li><a href="https://rbloxscripts.com/apocalypse-tycoon-inf-money-script/">Apocalypse Tycoon Inf Money Script</a></li>
 </ul><h3>Arcade Island X: Working Arcade</h3>
@@ -188,6 +192,8 @@
 </ul><h3>DEFLECT</h3>
 <ul><li><a href="https://rbloxscripts.com/deflect-auto-deflect-script-2/">DEFLECT Auto Deflect Script</a></li>
 <li><a href="https://rbloxscripts.com/deflect-auto-deflect-script/">DEFLECT Auto Deflect Script</a></li>
+</ul><h3>DOORS</h3>
+<ul><li><a href="https://rbloxscripts.com/doors-spam-banana-script/">DOORS Spam Banana Script</a></li>
 </ul><h3>Da Hood</h3>
 <ul><li><a href="https://rbloxscripts.com/da-hood-auto-farm-script/">Da Hood Auto Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/da-hood-shoe-auto-farm-script/">Da Hood Shoe Auto Farm Script</a></li>
@@ -221,6 +227,8 @@
 </ul><h3>Driving Empire</h3>
 <ul><li><a href="https://rbloxscripts.com/driving-empire-auto-farm-script/">Driving Empire Auto Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/driving-empire-candy-farm-script/">Driving Empire Candy farm Script</a></li>
+</ul><h3>Dumb Boss Fights</h3>
+<ul><li><a href="https://rbloxscripts.com/dumb-boss-fights-unlock-all-weapons-script/">Dumb Boss Fights Unlock All Weapons Script</a></li>
 </ul><h3>Dynamic Ship Simulator III</h3>
 <ul><li><a href="https://rbloxscripts.com/dynamic-ship-simulator-iii-remove-velocity-script/">Dynamic Ship Simulator III Remove Velocity Script</a></li>
 </ul><h3>EGOIST</h3>
@@ -327,8 +335,11 @@
 <li><a href="https://rbloxscripts.com/kill-monsters-to-save-princess-auto-wave-fast-hit-script/">Kill Monsters to Save Princess Auto Wave, Fast Hit Script</a></li>
 </ul><h3>Killstreak Sword Fighting BETA</h3>
 <ul><li><a href="https://rbloxscripts.com/killstreak-sword-fighting-beta-ban-kick-people-script/">Killstreak Sword Fighting BETA Ban, Kick people Script</a></li>
+</ul><h3>Legend of Heroes Simulator</h3>
+<ul><li><a href="https://rbloxscripts.com/legend-of-heroes-simulator-auto-farm-script/">Legend of Heroes Simulator Auto Farm Script</a></li>
 </ul><h3>Legends Of Speed</h3>
-<ul><li><a href="https://rbloxscripts.com/legends-of-speed-auto-farm-script/">Legends Of Speed Auto Farm Script</a></li>
+<ul><li><a href="https://rbloxscripts.com/legends-of-speed-auto-farm-script-2/">Legends Of Speed Auto Farm Script</a></li>
+<li><a href="https://rbloxscripts.com/legends-of-speed-auto-farm-script/">Legends Of Speed Auto Farm Script</a></li>
 </ul><h3>Legends Re:Written</h3>
 <ul><li><a href="https://rbloxscripts.com/legends-rewritten-god-mode-script/">Legends Re:Written God Mode Script</a></li>
 </ul><h3>Lost Kingdom Tycoon</h3>
@@ -454,6 +465,8 @@
 <ul><li><a href="https://rbloxscripts.com/plates-of-fate-remastered-auto-win-inf-jump-walk-speed-noclip-teleport-script/">Plates of Fate: Remastered Auto Win, Inf Jump, Walk Speed, Noclip, Teleport Script</a></li>
 </ul><h3>Project Baki 2</h3>
 <ul><li><a href="https://rbloxscripts.com/project-baki-2-lazy-hub-script/">Project Baki 2 Lazy Hub Script</a></li>
+</ul><h3>Project Delta</h3>
+<ul><li><a href="https://rbloxscripts.com/project-delta-instant-hit-script/">Project Delta Instant Hit Script</a></li>
 </ul><h3>Project New World</h3>
 <ul><li><a href="https://rbloxscripts.com/project-new-world-auto-farm-chest-script/">Project New World Auto Farm Chest Script</a></li>
 <li><a href="https://rbloxscripts.com/project-new-world-auto-farm-auto-stats-more-script/">Project New World Auto Farm, Auto Stats, More Script</a></li>
@@ -595,6 +608,7 @@
 <ul><li><a href="https://rbloxscripts.com/sword-fighters-simulator-auto-farm-gui-script/">Sword Fighters Simulator Auto Farm, GUI Script</a></li>
 <li><a href="https://rbloxscripts.com/sword-fighters-simulator-collect-all-chests-kill-aura-more-script/">Sword Fighters Simulator Collect All Chests, Kill Aura, More Script</a></li>
 <li><a href="https://rbloxscripts.com/sword-fighters-simulator-inf-upgrade-script/">Sword Fighters Simulator Inf Upgrade Script</a></li>
+<li><a href="https://rbloxscripts.com/sword-fighters-simulator-infinity-fish-script/">Sword Fighters Simulator Infinity Fish Script</a></li>
 <li><a href="https://rbloxscripts.com/sword-fighters-simulator-kill-aura-auto-coins-script/">Sword Fighters Simulator Kill Aura, Auto Coins Script</a></li>
 <li><a href="https://rbloxscripts.com/sword-fighters-simulator-op-gui-script/">Sword Fighters Simulator OP GUI Script</a></li>
 </ul><h3>Sword Haven</h3>
