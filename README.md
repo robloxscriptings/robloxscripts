@@ -1,4 +1,4 @@
-<h1>Roblox Scripts Collections [Updated 02/04/2023]</h1>
+<h1>Roblox Scripts Collections [Updated 05/04/2023]</h1>
 
 <h3>1 Blocks Every Second</h3>
 <ul><li><a href="https://rbloxscripts.com/1-blocks-every-second-auto-farm-auto-buy-more-script/">1 Blocks Every Second Auto Farm, Auto Buy, More Script</a></li>
@@ -260,6 +260,8 @@
 <ul><li><a href="https://rbloxscripts.com/fat-simulator-auto-farm-auto-rebirth-inf-jump-script/">Fat Simulator Auto Farm, Auto Rebirth, Inf Jump Script</a></li>
 </ul><h3>Final Tower Defense</h3>
 <ul><li><a href="https://rbloxscripts.com/final-tower-defense-free-units-script/">Final Tower Defense Free Units Script</a></li>
+</ul><h3>FiveDuels</h3>
+<ul><li><a href="https://rbloxscripts.com/fiveduels-silent-aim-script/">FiveDuels Silent Aim Script</a></li>
 </ul><h3>Fizzles Sandbox</h3>
 <ul><li><a href="https://rbloxscripts.com/fizzles-sandbox-crash-server-script/">Fizzles Sandbox Crash Server Script</a></li>
 </ul><h3>Flag Wars!</h3>
@@ -397,7 +399,8 @@
 <li><a href="https://rbloxscripts.com/murderers-vs-sheriffs-kill-all-esp-more-script/">Murderers vs. Sheriffs Kill All, ESP, More Script</a></li>
 <li><a href="https://rbloxscripts.com/murderers-vs-sheriffs-laser-gun-script/">Murderers vs. Sheriffs Laser Gun Script</a></li>
 </ul><h3>My Hello Kitty Cafe</h3>
-<ul><li><a href="https://rbloxscripts.com/my-hello-kitty-cafe-inf-gacha-spins-script/">My Hello Kitty Cafe Inf Gacha Spins Script</a></li>
+<ul><li><a href="https://rbloxscripts.com/my-hello-kitty-cafe-auto-eggs-script/">My Hello Kitty Cafe Auto Eggs Script</a></li>
+<li><a href="https://rbloxscripts.com/my-hello-kitty-cafe-inf-gacha-spins-script/">My Hello Kitty Cafe Inf Gacha Spins Script</a></li>
 <li><a href="https://rbloxscripts.com/my-hello-kitty-cafe-sell-cinnamoroll-items-script/">My Hello Kitty Cafe Sell Cinnamoroll Items Script</a></li>
 </ul><h3>My Hood</h3>
 <ul><li><a href="https://rbloxscripts.com/my-hood-crash-game-script/">My Hood Crash Game Script</a></li>
@@ -659,6 +662,8 @@
 <ul><li><a href="https://rbloxscripts.com/untitled-sus-game-lagger-script/">Untitled Sus Game Lagger Script</a></li>
 </ul><h3>Vanity</h3>
 <ul><li><a href="https://rbloxscripts.com/vanity-kill-aura-script/">Vanity Kill Aura Script</a></li>
+</ul><h3>Wall Punch Simulator</h3>
+<ul><li><a href="https://rbloxscripts.com/wall-punch-simulator-infinity-coins-script/">Wall Punch Simulator Infinity Coins Script</a></li>
 </ul><h3>Waterloo at home</h3>
 <ul><li><a href="https://rbloxscripts.com/waterloo-at-home-kill-god-mod-gun-mods-more-script/">Waterloo at home Kill, God Mod, Gun Mods, More Script</a></li>
 </ul><h3>Welcome to Bloxburg</h3>
@@ -670,12 +675,16 @@
 <ul><li><a href="https://rbloxscripts.com/westbound-spread-max-ammo-fast-reload-etc-script/">Westbound Spread, Max Ammo, Fast Reload, Etc Script</a></li>
 </ul><h3>Winds of Fortune</h3>
 <ul><li><a href="https://rbloxscripts.com/winds-of-fortune-gui-inf-money-kill-all-etc-script/">Winds of Fortune GUI, Inf money, Kill All, Etc Script</a></li>
+</ul><h3>Work at a Pizza Place</h3>
+<ul><li><a href="https://rbloxscripts.com/work-at-a-pizza-place-cashier-auto-farm-script/">Work at a Pizza Place Cashier Auto Farm Script</a></li>
 </ul><h3>World Zero</h3>
 <ul><li><a href="https://rbloxscripts.com/world-zero-claim-holiday-rewards-script/">World Zero Claim holiday rewards Script</a></li>
 <li><a href="https://rbloxscripts.com/world-zero-dodge-1-hit-from-event-boss-script/">World Zero Dodge 1 Hit from event Boss Script</a></li>
 <li><a href="https://rbloxscripts.com/world-zero-fast-spinner-script/">World Zero Fast Spinner Script</a></li>
 </ul><h3>World of Stands</h3>
 <ul><li><a href="https://rbloxscripts.com/world-of-stands-nan-bounty-script/">World of Stands NaN Bounty Script</a></li>
+</ul><h3>World of Trollge</h3>
+<ul><li><a href="https://rbloxscripts.com/world-of-trollge-auto-farm-script/">World of Trollge Auto Farm Script</a></li>
 </ul><h3>YouTube Simulator Z</h3>
 <ul><li><a href="https://rbloxscripts.com/youtube-simulator-z-auto-farm-script/">YouTube Simulator Z Auto Farm Script</a></li>
 </ul><h3>Your Bizarre Adventure</h3>
