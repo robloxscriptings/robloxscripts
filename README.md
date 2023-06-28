@@ -1,4 +1,4 @@
-<h1>Roblox Scripts Collections [Updated 05/04/2023]</h1>
+<h1>Roblox Scripts Collections [Updated 29/06/2023]</h1>
 
 <h3>1 Blocks Every Second</h3>
 <ul><li><a href="https://rbloxscripts.com/1-blocks-every-second-auto-farm-auto-buy-more-script/">1 Blocks Every Second Auto Farm, Auto Buy, More Script</a></li>
@@ -20,14 +20,14 @@
 <li><a href="https://rbloxscripts.com/3008-insta-pickup-crowbar-script/">3008 Insta Pickup Crowbar Script</a></li>
 </ul><h3>96</h3>
 <ul><li><a href="https://rbloxscripts.com/96-esp-script/">96 ESP Script</a></li>
-</ul><h3>A Universal Time</h3>
-<ul><li><a href="https://rbloxscripts.com/a-universal-time-auto-farm-more-script/">A Universal Time Auto Farm, More Script</a></li>
 </ul><h3>Ability Wars</h3>
 <ul><li><a href="https://rbloxscripts.com/ability-wars-hitbox-script/">Ability Wars Hitbox Script</a></li>
 </ul><h3>Abyss World</h3>
 <ul><li><a href="https://rbloxscripts.com/abyss-world-no-fall-damage-script/">Abyss World No Fall Damage Script</a></li>
 </ul><h3>Adopt Me</h3>
-<ul><li><a href="https://rbloxscripts.com/adopt-me-ginger-bread-farm-script/">Adopt Me Ginger Bread Farm Script</a></li>
+<ul><li><a href="https://rbloxscripts.com/adopt-me-autofarm-eggs-script/">Adopt Me Autofarm Eggs Script</a></li>
+<li><a href="https://rbloxscripts.com/adopt-me-eggs-hunter-script/">Adopt Me Eggs Hunter Script</a></li>
+<li><a href="https://rbloxscripts.com/adopt-me-ginger-bread-farm-script/">Adopt Me Ginger Bread Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/adopt-me-mendopt-me-v2-script/">Adopt Me Mendopt Me V2 Script</a></li>
 <li><a href="https://rbloxscripts.com/adopt-me-pet-auto-farm-auto-buy-etc-script/">Adopt Me Pet Auto Farm, Auto Buy, Etc Script</a></li>
 <li><a href="https://rbloxscripts.com/adopt-me-pet-farm-babyfarm-auto-buy-ginger-bread-farm-etc-script/">Adopt Me Pet Farm, BabyFarm, Auto Buy, Ginger Bread Farm, Etc Script</a></li>
@@ -36,7 +36,8 @@
 </ul><h3>Airplane Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/airplane-simulator-auto-collect-eggs-script/">Airplane Simulator Auto Collect Eggs Script</a></li>
 </ul><h3>All Star Tower Defense</h3>
-<ul><li><a href="https://rbloxscripts.com/all-star-tower-defense-auto-upgrade-script/">All Star Tower Defense Auto Upgrade Script</a></li>
+<ul><li><a href="https://rbloxscripts.com/all-star-tower-defense-auto-ability-more-script/">All Star Tower Defense Auto Ability, More Script</a></li>
+<li><a href="https://rbloxscripts.com/all-star-tower-defense-auto-upgrade-script/">All Star Tower Defense Auto Upgrade Script</a></li>
 </ul><h3>Allusions</h3>
 <ul><li><a href="https://rbloxscripts.com/allusions-gui-script/">Allusions GUI Script</a></li>
 </ul><h3>Alo Sanctuary</h3>
@@ -77,13 +78,12 @@
 <ul><li><a href="https://rbloxscripts.com/anime-souls-simulator-auto-farm-script/">Anime Souls Simulator Auto Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/anime-souls-simulator-auto-quest-script/">Anime Souls Simulator Auto Quest Script</a></li>
 <li><a href="https://rbloxscripts.com/anime-souls-simulator-gui-script/">Anime Souls Simulator GUI Script</a></li>
+</ul><h3>Anime Warriors Simulator 2</h3>
+<ul><li><a href="https://rbloxscripts.com/anime-warriors-simulator-2-instant-teleport-script/">Anime Warriors Simulator 2 Instant Teleport Script</a></li>
 </ul><h3>Ants Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/ants-simulator-auto-collect-tokens-script/">Ants Simulator Auto Collect Tokens Script</a></li>
 </ul><h3>Apocalypse Tycoon</h3>
 <ul><li><a href="https://rbloxscripts.com/apocalypse-tycoon-inf-money-script/">Apocalypse Tycoon Inf Money Script</a></li>
-</ul><h3>Arcade Island X: Working Arcade</h3>
-<ul><li><a href="https://rbloxscripts.com/arcade-island-x-working-arcade-auto-chip-auto-dogecoin-auto-fruit-slash-auto-target-script/">Arcade Island X: Working Arcade Auto Chip, Auto DogeCoin, Auto Fruit Slash, Auto Target Script</a></li>
-<li><a href="https://rbloxscripts.com/arcade-island-x-working-arcade-auto-games-script/">Arcade Island X: Working Arcade Auto Games Script</a></li>
 </ul><h3>Arcane Odyssey</h3>
 <ul><li><a href="https://rbloxscripts.com/arcane-odyssey-auto-chest-teleport-script/">Arcane Odyssey Auto Chest Teleport Script</a></li>
 <li><a href="https://rbloxscripts.com/arcane-odyssey-auto-farm-god-mode-one-shot-more-script/">Arcane Odyssey Auto Farm, God Mode, One Shot, More Script</a></li>
@@ -114,9 +114,6 @@
 <ul><li><a href="https://rbloxscripts.com/bedwars-elder-tree-orb-esp-script/">BedWars Elder Tree Orb ESP Script</a></li>
 </ul><h3>Bee Factory</h3>
 <ul><li><a href="https://rbloxscripts.com/bee-factory-auto-collect-honey-script/">Bee Factory Auto Collect Honey Script</a></li>
-</ul><h3>Bee Swarm Simulator</h3>
-<ul><li><a href="https://rbloxscripts.com/bee-swarm-simulator-auto-farm-auto-dig-auto-quest-gui-more-script/">Bee Swarm Simulator Auto Farm, Auto Dig, Auto Quest, GUI, More Script</a></li>
-<li><a href="https://rbloxscripts.com/bee-swarm-simulator-kometa-gui-script/">Bee Swarm Simulator Kometa GUI Script</a></li>
 </ul><h3>Bitcoin Miner</h3>
 <ul><li><a href="https://rbloxscripts.com/bitcoin-miner-gui-script/">Bitcoin Miner GUI Script</a></li>
 </ul><h3>Black Adam</h3>
@@ -132,6 +129,8 @@
 <li><a href="https://rbloxscripts.com/blox-fruits-auto-team-auto-fruit-undetectable-script/">Blox Fruits Auto Team, Auto Fruit, Undetectable Script</a></li>
 <li><a href="https://rbloxscripts.com/blox-fruits-autoquest-script/">Blox Fruits AutoQuest Script</a></li>
 <li><a href="https://rbloxscripts.com/blox-fruits-collect-all-chests-script/">Blox Fruits Collect All Chests Script</a></li>
+<li><a href="https://rbloxscripts.com/blox-fruits-mukuro-hub-fastest-blox-fruits-level-farm-script-script/">Blox Fruits Mukuro Hub Fastest Blox Fruits Level Farm Script Script</a></li>
+<li><a href="https://rbloxscripts.com/blox-fruits-pado-hub-script/">Blox Fruits Pado Hub Script</a></li>
 </ul><h3>Broken Bones 5</h3>
 <ul><li><a href="https://rbloxscripts.com/broken-bones-5-inf-money-auto-farm-script/">Broken Bones 5 Inf Money, Auto Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/broken-bones-5-press-z-for-destruction-script/">Broken Bones 5 Press Z for Destruction Script</a></li>
@@ -139,12 +138,12 @@
 <ul><li><a href="https://rbloxscripts.com/brookhaven-rp-auto-get-candy-and-vehicle-script/">Brookhaven RP Auto Get Candy and Vehicle Script</a></li>
 </ul><h3>Bubble Gum Clicker</h3>
 <ul><li><a href="https://rbloxscripts.com/bubble-gum-clicker-auto-farm-auto-sell-auto-egg-more-script/">Bubble Gum Clicker Auto Farm, Auto Sell, Auto Egg, More Script</a></li>
+</ul><h3>Build A Boat For Treasure</h3>
+<ul><li><a href="https://rbloxscripts.com/build-a-boat-for-treasure-auto-farm-script/">Build A Boat For Treasure Auto Farm Script</a></li>
 </ul><h3>Busy Business</h3>
 <ul><li><a href="https://rbloxscripts.com/busy-business-auto-farm-script/">Busy Business Auto Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/busy-business-auto-lemonade-script/">Busy Business Auto Lemonade Script</a></li>
 <li><a href="https://rbloxscripts.com/busy-business-instant-order-instant-serve-script/">Busy Business Instant Order, Instant Serve Script</a></li>
-</ul><h3>CS Prison Life</h3>
-<ul><li><a href="https://rbloxscripts.com/cs-prison-life-gun-mod-script/">CS Prison Life Gun Mod Script</a></li>
 </ul><h3>CaliStreets</h3>
 <ul><li><a href="https://rbloxscripts.com/calistreets-box-auto-farm-script/">CaliStreets Box Auto Farm Script</a></li>
 </ul><h3>Call of Mini™ Zombies</h3>
@@ -156,6 +155,8 @@
 <ul><li><a href="https://rbloxscripts.com/car-dealership-tycoon-christmas-event-candy-farm-script/">Car Dealership Tycoon Christmas Event Candy Farm Script</a></li>
 </ul><h3>Car Factory Tycoon</h3>
 <ul><li><a href="https://rbloxscripts.com/car-factory-tycoon-gui-script/">Car Factory Tycoon GUI Script</a></li>
+</ul><h3>Case Clicker</h3>
+<ul><li><a href="https://rbloxscripts.com/case-clicker-auto-farm-script/">Case Clicker Auto Farm Script</a></li>
 </ul><h3>Case Opening Simulator 2</h3>
 <ul><li><a href="https://rbloxscripts.com/case-opening-simulator-2-auto-open-free-case-script/">Case Opening Simulator 2 Auto Open Free Case Script</a></li>
 </ul><h3>Chainsaw Man</h3>
@@ -163,16 +164,12 @@
 <li><a href="https://rbloxscripts.com/chainsaw-man-auto-farm-esp-script/">Chainsaw Man Auto Farm, ESP Script</a></li>
 </ul><h3>Chechnya 1994</h3>
 <ul><li><a href="https://rbloxscripts.com/chechnya-1994-kill-all-script/">Chechnya 1994 Kill All Script</a></li>
-</ul><h3>ChicBlocko</h3>
-<ul><li><a href="https://rbloxscripts.com/chicblocko-auto-farm-money-script/">ChicBlocko Auto Farm Money Script</a></li>
-<li><a href="https://rbloxscripts.com/chicblocko-selling-dope-farm-script/">ChicBlocko Selling Dope Farm Script</a></li>
 </ul><h3>Clicker Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/clicker-simulator-inf-money-script/">Clicker Simulator Inf Money Script</a></li>
 <li><a href="https://rbloxscripts.com/clicker-simulator-pumpkin-farm-script/">Clicker Simulator Pumpkin Farm Script</a></li>
-</ul><h3>Collect All Pets!</h3>
-<ul><li><a href="https://rbloxscripts.com/collect-all-pets-autofarm-invisible-script/">Collect All Pets! Autofarm, Invisible Script</a></li>
 </ul><h3>Combat Warriors</h3>
 <ul><li><a href="https://rbloxscripts.com/combat-warriors-hitbox-extender-script/">Combat Warriors Hitbox Extender Script</a></li>
+<li><a href="https://rbloxscripts.com/combat-warriors-infinity-spin-script/">Combat Warriors Infinity Spin Script</a></li>
 <li><a href="https://rbloxscripts.com/combat-warriors-op-gui-script/">Combat Warriors OP GUI Script</a></li>
 </ul><h3>Cornerstone Arcade</h3>
 <ul><li><a href="https://rbloxscripts.com/cornerstone-arcade-autofarm-script/">Cornerstone Arcade Autofarm Script</a></li>
@@ -182,11 +179,6 @@
 <ul><li><a href="https://rbloxscripts.com/crop-farming-incremental-auto-plant-auto-harvest-more-script/">Crop Farming Incremental Auto Plant, Auto Harvest, More Script</a></li>
 </ul><h3>Cross the Road</h3>
 <ul><li><a href="https://rbloxscripts.com/cross-the-road-hold-r-kill-aura-script/">Cross the Road hold R Kill Aura Script</a></li>
-</ul><h3>Crossbar Challenge Simulator</h3>
-<ul><li><a href="https://rbloxscripts.com/crossbar-challenge-simulator-get-all-hats-script/">Crossbar Challenge Simulator Get All hats Script</a></li>
-</ul><h3>Cursed Islands</h3>
-<ul><li><a href="https://rbloxscripts.com/cursed-islands-auto-collect-coins-auto-win-delete-water-script/">Cursed Islands Auto Collect Coins, Auto Win, Delete Water Script</a></li>
-<li><a href="https://rbloxscripts.com/cursed-islands-gui-script/">Cursed Islands GUI Script</a></li>
 </ul><h3>Custom Duels</h3>
 <ul><li><a href="https://rbloxscripts.com/custom-duels-kill-aure-auto-swing-walk-speed-afk-script/">Custom Duels Kill Aure, Auto Swing, Walk Speed, AFK Script</a></li>
 </ul><h3>DEFLECT</h3>
@@ -196,12 +188,8 @@
 <ul><li><a href="https://rbloxscripts.com/doors-spam-banana-script/">DOORS Spam Banana Script</a></li>
 </ul><h3>Da Hood</h3>
 <ul><li><a href="https://rbloxscripts.com/da-hood-auto-farm-script/">Da Hood Auto Farm Script</a></li>
+<li><a href="https://rbloxscripts.com/da-hood-autofarm-eggs-script/">Da Hood Autofarm Eggs Script</a></li>
 <li><a href="https://rbloxscripts.com/da-hood-shoe-auto-farm-script/">Da Hood Shoe Auto Farm Script</a></li>
-</ul><h3>Deadly Sins Retribution</h3>
-<ul><li><a href="https://rbloxscripts.com/deadly-sins-retribution-inf-magic-1-script/">Deadly Sins Retribution Inf Magic 1 Script</a></li>
-<li><a href="https://rbloxscripts.com/deadly-sins-retribution-inf-magic-2-script/">Deadly Sins Retribution Inf Magic 2 Script</a></li>
-<li><a href="https://rbloxscripts.com/deadly-sins-retribution-inf-spins-race-script/">Deadly Sins Retribution Inf Spins Race Script</a></li>
-<li><a href="https://rbloxscripts.com/deadly-sins-retribution-save-data-script/">Deadly Sins Retribution Save data Script</a></li>
 </ul><h3>Death Academy Online</h3>
 <ul><li><a href="https://rbloxscripts.com/death-academy-online-kill-aura-money-stats-op-script/">Death Academy Online Kill Aura, Money, Stats, OP Script</a></li>
 </ul><h3>Demon Soul Simulator</h3>
@@ -249,6 +237,12 @@
 <ul><li><a href="https://rbloxscripts.com/every-second-you-get-stronger-auto-farm-script/">Every Second You Get Stronger Auto Farm Script</a></li>
 </ul><h3>FNAF: Coop</h3>
 <ul><li><a href="https://rbloxscripts.com/fnaf-coop-esp-teleport-infinite-sprint-etc-script/">FNAF: Coop Esp, Teleport, Infinite Sprint, Etc Script</a></li>
+</ul><h3>Fabled Legacy</h3>
+<ul><li><a href="https://rbloxscripts.com/fabled-legacy-auto-farm-script/">Fabled Legacy Auto Farm Script</a></li>
+</ul><h3>Facility Lockdown</h3>
+<ul><li><a href="https://rbloxscripts.com/facility-lockdown-gui-v1-3-script/">Facility Lockdown GUI V1.3 Script</a></li>
+</ul><h3>Faction Defense Tycoon</h3>
+<ul><li><a href="https://rbloxscripts.com/faction-defense-tycoon-infinity-money-script/">Faction Defense Tycoon Infinity Money Script</a></li>
 </ul><h3>Fairy Tail: Magic Era</h3>
 <ul><li><a href="https://rbloxscripts.com/fairy-tail-magic-era-inf-stuff-script/">Fairy Tail: Magic Era Inf Stuff Script</a></li>
 <li><a href="https://rbloxscripts.com/fairy-tail-magic-era-trinket-farm-script/">Fairy Tail: Magic Era Trinket Farm Script</a></li>
@@ -258,6 +252,8 @@
 <ul><li><a href="https://rbloxscripts.com/farming-simulator-auto-sell-auto-upgrade-script/">Farming Simulator Auto Sell, Auto Upgrade Script</a></li>
 </ul><h3>Fat Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/fat-simulator-auto-farm-auto-rebirth-inf-jump-script/">Fat Simulator Auto Farm, Auto Rebirth, Inf Jump Script</a></li>
+</ul><h3>Festival Tycoon</h3>
+<ul><li><a href="https://rbloxscripts.com/festival-tycoon-infinity-money-script/">Festival Tycoon Infinity Money Script</a></li>
 </ul><h3>Final Tower Defense</h3>
 <ul><li><a href="https://rbloxscripts.com/final-tower-defense-free-units-script/">Final Tower Defense Free Units Script</a></li>
 </ul><h3>FiveDuels</h3>
@@ -271,6 +267,7 @@
 <ul><li><a href="https://rbloxscripts.com/flappy-clicker-auto-click-auto-rebirth-auto-buy-lands-auto-buy-eggs-more-script/">Flappy Clicker Auto Click, Auto Rebirth, Auto Buy Lands, Auto Buy Eggs, More Script</a></li>
 </ul><h3>Flee the Facility</h3>
 <ul><li><a href="https://rbloxscripts.com/flee-the-facility-esp-inf-sta-more-script/">Flee the Facility ESP, Inf Sta, More Script</a></li>
+<li><a href="https://rbloxscripts.com/flee-the-facility-ftfhax-op-gui-script/">Flee the Facility FTFHAX OP GUI Script</a></li>
 </ul><h3>Fly Race</h3>
 <ul><li><a href="https://rbloxscripts.com/fly-race-auto-farm-script/">Fly Race Auto Farm Script</a></li>
 </ul><h3>Flying Race Clicker</h3>
@@ -300,8 +297,6 @@
 <ul><li><a href="https://rbloxscripts.com/goofy-stands-lagger-script/">Goofy Stands Lagger Script</a></li>
 </ul><h3>Grass Cutting Incremental</h3>
 <ul><li><a href="https://rbloxscripts.com/grass-cutting-incremental-auto-farm-script/">Grass Cutting Incremental Auto Farm Script</a></li>
-</ul><h3>Greenville</h3>
-<ul><li><a href="https://rbloxscripts.com/greenville-the-twist-autofarm-script/">Greenville The Twist Autofarm Script</a></li>
 </ul><h3>Gun Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/gun-simulator-inf-money-get-all-pets-stars-script/">Gun Simulator Inf Money, Get All Pets, Stars Script</a></li>
 </ul><h3>HOOP INFINITY</h3>
@@ -310,6 +305,10 @@
 <ul><li><a href="https://rbloxscripts.com/hill-disasters-press-e-free-coin-script/">Hill Disasters Press E free coin Script</a></li>
 </ul><h3>Hood Duels</h3>
 <ul><li><a href="https://rbloxscripts.com/hood-duels-silent-aim-script/">Hood Duels Silent Aim Script</a></li>
+</ul><h3>Hoop Simulator</h3>
+<ul><li><a href="https://rbloxscripts.com/hoop-simulator-gui-hub-script/">Hoop Simulator GUI Hub Script</a></li>
+</ul><h3>Hoops Life Basketball</h3>
+<ul><li><a href="https://rbloxscripts.com/hoops-life-basketball-ball-teleport-script/">Hoops Life Basketball Ball Teleport Script</a></li>
 </ul><h3>Horrific Housing</h3>
 <ul><li><a href="https://rbloxscripts.com/horrific-housing-auto-collect-soul-script/">Horrific Housing Auto Collect Soul Script</a></li>
 </ul><h3>Horse Racing Club</h3>
@@ -322,7 +321,8 @@
 <ul><li><a href="https://rbloxscripts.com/hyundai-mobility-adventure-kick-all-players-script/">Hyundai Mobility Adventure Kick All Players Script</a></li>
 <li><a href="https://rbloxscripts.com/hyundai-mobility-adventure-unlock-all-particles-script/">Hyundai Mobility Adventure Unlock All Particles Script</a></li>
 </ul><h3>Infinite Rarities</h3>
-<ul><li><a href="https://rbloxscripts.com/infinite-rarities-auto-farm-script/">Infinite Rarities Auto Farm Script</a></li>
+<ul><li><a href="https://rbloxscripts.com/infinite-rarities-auto-farm-script-2/">Infinite Rarities Auto Farm Script</a></li>
+<li><a href="https://rbloxscripts.com/infinite-rarities-auto-farm-script/">Infinite Rarities Auto Farm Script</a></li>
 </ul><h3>Islands</h3>
 <ul><li><a href="https://rbloxscripts.com/islands-auto-harvest-replan-mine-rock-script/">Islands Auto Harvest, Replan, Mine Rock Script</a></li>
 </ul><h3>Jailbreak</h3>
@@ -337,6 +337,8 @@
 <li><a href="https://rbloxscripts.com/kill-monsters-to-save-princess-auto-wave-fast-hit-script/">Kill Monsters to Save Princess Auto Wave, Fast Hit Script</a></li>
 </ul><h3>Killstreak Sword Fighting BETA</h3>
 <ul><li><a href="https://rbloxscripts.com/killstreak-sword-fighting-beta-ban-kick-people-script/">Killstreak Sword Fighting BETA Ban, Kick people Script</a></li>
+</ul><h3>King Legacy</h3>
+<ul><li><a href="https://rbloxscripts.com/king-legacy-autofarm-etc-script/">King Legacy AutoFarm, Etc Script</a></li>
 </ul><h3>Legend of Heroes Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/legend-of-heroes-simulator-auto-farm-script/">Legend of Heroes Simulator Auto Farm Script</a></li>
 </ul><h3>Legends Of Speed</h3>
@@ -357,7 +359,8 @@
 </ul><h3>Magic Training</h3>
 <ul><li><a href="https://rbloxscripts.com/magic-training-auto-block-auto-clash-flight-pass-more-script/">Magic Training Auto Block, Auto Clash, Flight Pass, More Script</a></li>
 </ul><h3>Marvellous Playground</h3>
-<ul><li><a href="https://rbloxscripts.com/marvellous-playground-kill-all-script/">Marvellous Playground Kill All Script</a></li>
+<ul><li><a href="https://rbloxscripts.com/marvellous-playground-kill-all-script-2/">Marvellous Playground Kill All Script</a></li>
+<li><a href="https://rbloxscripts.com/marvellous-playground-kill-all-script/">Marvellous Playground Kill All Script</a></li>
 </ul><h3>Mechanical Ascension X</h3>
 <ul><li><a href="https://rbloxscripts.com/mechanical-ascension-x-auto-collect-teleport-more-script/">Mechanical Ascension X Auto Collect, Teleport, More Script</a></li>
 </ul><h3>Mega Easy Obby</h3>
@@ -370,6 +373,9 @@
 <ul><li><a href="https://rbloxscripts.com/merge-droppers-inf-money-script/">Merge Droppers Inf Money Script</a></li>
 </ul><h3>Merge Pet Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/merge-pet-simulator-auto-merge-script/">Merge Pet Simulator Auto Merge Script</a></li>
+</ul><h3>Military Tycoon</h3>
+<ul><li><a href="https://rbloxscripts.com/military-tycoon-auto-purchase-buttons-script/">Military Tycoon Auto Purchase Buttons Script</a></li>
+<li><a href="https://rbloxscripts.com/military-tycoon-auto-rebirth-script/">Military Tycoon Auto Rebirth Script</a></li>
 </ul><h3>Milk Tycoon</h3>
 <ul><li><a href="https://rbloxscripts.com/milk-tycoon-autofarm-script/">Milk Tycoon Autofarm Script</a></li>
 </ul><h3>Miner's Haven</h3>
@@ -408,8 +414,12 @@
 <ul><li><a href="https://rbloxscripts.com/my-little-pony-get-all-items-script/">My Little Pony Get All Items Script</a></li>
 </ul><h3>My Restaurant</h3>
 <ul><li><a href="https://rbloxscripts.com/my-restaurant-auto-farm-script/">My Restaurant Auto Farm Script</a></li>
+</ul><h3>Naval Warfare</h3>
+<ul><li><a href="https://rbloxscripts.com/naval-warfare-kill-all-auto-win-inf-ammo-teleport-script/">Naval Warfare Kill All, Auto Win, Inf Ammo, Teleport Script</a></li>
 </ul><h3>Nuke Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/nuke-simulator-free-all-coins-script/">Nuke Simulator Free All Coins Script</a></li>
+</ul><h3>ONE FRUIT</h3>
+<ul><li><a href="https://rbloxscripts.com/one-fruit-fruit-autofarm-script/">ONE FRUIT FRUIT AUTOFARM Script</a></li>
 </ul><h3>Oaklands</h3>
 <ul><li><a href="https://rbloxscripts.com/oaklands-ore-esp-script/">Oaklands Ore ESP Script</a></li>
 </ul><h3>Ohio</h3>
@@ -457,10 +467,13 @@
 <li><a href="https://rbloxscripts.com/pilgrammed-insta-kill-mobs-script/">Pilgrammed Insta Kill Mobs Script</a></li>
 <li><a href="https://rbloxscripts.com/pilgrammed-mob-autofarm-script/">Pilgrammed Mob AutoFarm Script</a></li>
 <li><a href="https://rbloxscripts.com/pilgrammed-multi-tool-script/">Pilgrammed Multi Tool Script</a></li>
+</ul><h3>Pirate Legacy</h3>
+<ul><li><a href="https://rbloxscripts.com/pirate-legacy-auto-farm-script/">Pirate Legacy Auto Farm Script</a></li>
 </ul><h3>Pixel Piece</h3>
 <ul><li><a href="https://rbloxscripts.com/pixel-piece-amanize-hub-script/">Pixel Piece Amanize Hub Script</a></li>
 <li><a href="https://rbloxscripts.com/pixel-piece-auto-farm-auto-quest-auto-stats-script/">Pixel Piece Auto Farm, Auto Quest, Auto Stats Script</a></li>
 <li><a href="https://rbloxscripts.com/pixel-piece-auto-farm-auto-quest-get-fruits-more-script/">Pixel Piece Auto Farm, Auto Quest, Get Fruits, More Script</a></li>
+<li><a href="https://rbloxscripts.com/pixel-piece-autofarm-autoquest-more-script/">Pixel Piece AutoFarm, AutoQuest, More Script</a></li>
 <li><a href="https://rbloxscripts.com/pixel-piece-inf-stats-script/">Pixel Piece Inf Stats Script</a></li>
 </ul><h3>Planet Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/planet-simulator-autofarm-script/">Planet Simulator AutoFarm Script</a></li>
@@ -468,8 +481,15 @@
 <ul><li><a href="https://rbloxscripts.com/plates-of-fate-remastered-auto-win-inf-jump-walk-speed-noclip-teleport-script/">Plates of Fate: Remastered Auto Win, Inf Jump, Walk Speed, Noclip, Teleport Script</a></li>
 </ul><h3>Project Baki 2</h3>
 <ul><li><a href="https://rbloxscripts.com/project-baki-2-lazy-hub-script/">Project Baki 2 Lazy Hub Script</a></li>
-</ul><h3>Project Delta</h3>
-<ul><li><a href="https://rbloxscripts.com/project-delta-instant-hit-script/">Project Delta Instant Hit Script</a></li>
+</ul><h3>Project Megutsu</h3>
+<ul><li><a href="https://rbloxscripts.com/project-megutsu-auto-clan-spin-script/">Project Megutsu Auto Clan Spin Script</a></li>
+<li><a href="https://rbloxscripts.com/project-megutsu-auto-farm-script/">Project Megutsu Auto Farm Script</a></li>
+<li><a href="https://rbloxscripts.com/project-megutsu-auto-farm-teleport-more-script/">Project Megutsu Auto Farm, Teleport, More Script</a></li>
+<li><a href="https://rbloxscripts.com/project-megutsu-auto-redeem-spin-clan-script/">Project Megutsu Auto Redeem, Spin Clan Script</a></li>
+<li><a href="https://rbloxscripts.com/project-megutsu-autospin-auto-redeem-script/">Project Megutsu Autospin, Auto redeem Script</a></li>
+<li><a href="https://rbloxscripts.com/project-megutsu-instant-vasto-lorde-script/">Project Megutsu Instant Vasto Lorde Script</a></li>
+<li><a href="https://rbloxscripts.com/project-megutsu-item-modifier-script/">Project Megutsu Item Modifier Script</a></li>
+<li><a href="https://rbloxscripts.com/project-megutsu-unban-script/">Project Megutsu Unban Script</a></li>
 </ul><h3>Project New World</h3>
 <ul><li><a href="https://rbloxscripts.com/project-new-world-auto-farm-chest-script/">Project New World Auto Farm Chest Script</a></li>
 <li><a href="https://rbloxscripts.com/project-new-world-auto-farm-auto-stats-more-script/">Project New World Auto Farm, Auto Stats, More Script</a></li>
@@ -477,13 +497,18 @@
 <ul><li><a href="https://rbloxscripts.com/project-slayers-auto-farm-boss-kill-aura-script/">Project Slayers Auto Farm Boss, Kill Aura Script</a></li>
 <li><a href="https://rbloxscripts.com/project-slayers-auto-quest-script/">Project Slayers Auto Quest Script</a></li>
 <li><a href="https://rbloxscripts.com/project-slayers-grinch-ware-script/">Project Slayers Grinch Ware Script</a></li>
+<li><a href="https://rbloxscripts.com/project-slayers-kill-aura-teleports-godmode-etc-script/">Project Slayers Kill Aura, Teleports, Godmode, Etc
+ Script</a></li>
+</ul><h3>Project XXL</h3>
+<ul><li><a href="https://rbloxscripts.com/project-xxl-automatically-spins-legendary-specs-script/">Project XXL Automatically Spins Legendary Specs  Script</a></li>
+<li><a href="https://rbloxscripts.com/project-xxl-redeem-all-codes-script/">Project XXL Redeem All Codes Script</a></li>
+</ul><h3>Punch Wall Simulator</h3>
+<ul><li><a href="https://rbloxscripts.com/punch-wall-simulator-auto-rebirth-auto-win-more-script/">Punch Wall Simulator
+ Auto Rebirth, Auto Win, More Script</a></li>
 </ul><h3>Punch a brick wall simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/punch-a-brick-wall-simulator-inf-money-script/">Punch a brick wall simulator Inf Money Script</a></li>
 </ul><h3>Queen Elizebeth Obby</h3>
 <ul><li><a href="https://rbloxscripts.com/queen-elizebeth-obby-unlock-all-game-passes-script/">Queen Elizebeth Obby Unlock All Game Passes Script</a></li>
-</ul><h3>RB Battles</h3>
-<ul><li><a href="https://rbloxscripts.com/rb-battles-auto-farm-script/">RB Battles Auto Farm Script</a></li>
-<li><a href="https://rbloxscripts.com/rb-battles-inf-money-script/">RB Battles Inf Money Script</a></li>
 </ul><h3>RPG CHAMPIONS</h3>
 <ul><li><a href="https://rbloxscripts.com/rpg-champions-auto-bring-all-spawned-rare-weapon-auto-supply-etc-script/">RPG CHAMPIONS Auto bring all Spawned, Rare weapon, Auto Supply, Etc Script</a></li>
 </ul><h3>Race Car Clickers</h3>
@@ -496,8 +521,6 @@
 <ul><li><a href="https://rbloxscripts.com/raise-a-peter-auto-farm-script/">Raise a Peter Auto Farm Script</a></li>
 </ul><h3>Rank Simulator</h3>
 <ul><li><a href="https://rbloxscripts.com/rank-simulator-inf-gem-script/">Rank Simulator Inf Gem Script</a></li>
-</ul><h3>Rate My Avatar</h3>
-<ul><li><a href="https://rbloxscripts.com/rate-my-avatar-auto-rate-with-server-hop-script/">Rate My Avatar Auto Rate with server hop Script</a></li>
 </ul><h3>Realistic Hand RP</h3>
 <ul><li><a href="https://rbloxscripts.com/realistic-hand-rp-kill-all-script/">Realistic Hand RP Kill All Script</a></li>
 </ul><h3>Realms! Simulator</h3>
@@ -506,11 +529,6 @@
 </ul><h3>Reaper 2</h3>
 <ul><li><a href="https://rbloxscripts.com/reaper-2-auto-farm-auto-quest-tp-more-script/">Reaper 2 Auto Farm, Auto Quest, TP, More Script</a></li>
 <li><a href="https://rbloxscripts.com/reaper-2-auto-farm-auto-run-more-script/">Reaper 2 Auto Farm, Auto Run, More Script</a></li>
-</ul><h3>Rebirth Champions X</h3>
-<ul><li><a href="https://rbloxscripts.com/rebirth-champions-x-auto-click-auto-rebirth-auto-chest-more-script/">Rebirth Champions X Auto Click, Auto Rebirth, Auto Chest, More Script</a></li>
-<li><a href="https://rbloxscripts.com/rebirth-champions-x-auto-farm-script/">Rebirth Champions X Auto Farm Script</a></li>
-<li><a href="https://rbloxscripts.com/rebirth-champions-x-auto-farm-auto-pet-more-script/">Rebirth Champions X Auto Farm, Auto Pet, More Script</a></li>
-<li><a href="https://rbloxscripts.com/rebirth-champions-x-auto-farm-auto-rebirth-auto-craft-script/">Rebirth Champions X Auto Farm, Auto Rebirth, Auto Craft Script</a></li>
 </ul><h3>Redwood Prison Reworked</h3>
 <ul><li><a href="https://rbloxscripts.com/redwood-prison-reworked-502development-gui-script/">Redwood Prison Reworked 502Development GUI Script</a></li>
 <li><a href="https://rbloxscripts.com/redwood-prison-reworked-god-mode-kill-weapon-fly-walkspeed-more-script/">Redwood Prison Reworked God Mode, Kill, Weapon, Fly, Walkspeed, More Script</a></li>
@@ -527,9 +545,15 @@
 <ul><li><a href="https://rbloxscripts.com/rise-of-the-dead-auto-farm-script/">Rise of the Dead Auto Farm Script</a></li>
 </ul><h3>Ro Fruit</h3>
 <ul><li><a href="https://rbloxscripts.com/ro-fruit-projectsinisterloader-auto-farm-insta-kill-etc-script/">Ro Fruit ProjectSinisterLoader, Auto Farm, Insta Kill, Etc  Script</a></li>
-</ul><h3>Roblox Talent Show</h3>
-<ul><li><a href="https://rbloxscripts.com/roblox-talent-show-auto-farm-script/">Roblox Talent Show Auto Farm Script</a></li>
-<li><a href="https://rbloxscripts.com/roblox-talent-show-autofarm-rep-script/">Roblox Talent Show Autofarm Rep Script</a></li>
+</ul><h3>Roblox Script Hub</h3>
+<ul><li><a href="https://rbloxscripts.com/mama-hub-best-blox-fruit-script-hub/">Mama Hub Best Blox Fruit Script Hub</a></li>
+<li><a href="https://rbloxscripts.com/mukuro-hub-best-blox-fruit-script-hub/">Mukuro Hub Best Blox Fruit Script Hub</a></li>
+<li><a href="https://rbloxscripts.com/naja-hub-best-blox-fruit-script-hub/">Naja Hub Best Blox Fruit Script Hub</a></li>
+<li><a href="https://rbloxscripts.com/pado-hub-bloxfruit-best-no-key-script-hub/">Pado Hub Bloxfruit Best No Key Script Hub</a></li>
+<li><a href="https://rbloxscripts.com/playback-x-hub-best-blox-fruit-script-hub/">Playback X Hub Best Blox Fruit Script Hub</a></li>
+<li><a href="https://rbloxscripts.com/uraniumhub-bloxfruit-best-no-key-script-hub/">UraniumHub Bloxfruit Best No Key Script Hub</a></li>
+<li><a href="https://rbloxscripts.com/zaquehub-best-blox-fruit-script-hub/">ZaqueHub Best Blox Fruit Script Hub</a></li>
+<li><a href="https://rbloxscripts.com/zeehub-best-blox-fruit-script-hub/">ZeeHub Best Blox Fruit Script Hub</a></li>
 </ul><h3>Robot Tycoon</h3>
 <ul><li><a href="https://rbloxscripts.com/robot-tycoon-infinite-money-script/">Robot Tycoon Infinite Money Script</a></li>
 </ul><h3>Royale High</h3>
@@ -540,6 +564,10 @@
 <li><a href="https://rbloxscripts.com/scp-warfare-tycoon-auto-collect-script/">SCP Warfare Tycoon Auto Collect Script</a></li>
 </ul><h3>SCP: Site Roleplay</h3>
 <ul><li><a href="https://rbloxscripts.com/scp-site-roleplay-inf-ammo-script/">SCP: Site Roleplay Inf Ammo Script</a></li>
+</ul><h3>SHADOVIS RPG</h3>
+<ul><li><a href="https://rbloxscripts.com/shadovis-rpg-insta-kill-script/">SHADOVIS RPG Insta Kill Script</a></li>
+</ul><h3>SKYDIVE Off A TOWER</h3>
+<ul><li><a href="https://rbloxscripts.com/skydive-off-a-tower-inf-money-script/">SKYDIVE Off A TOWER Inf Money Script</a></li>
 </ul><h3>SPTS : Origin</h3>
 <ul><li><a href="https://rbloxscripts.com/spts-origin-auto-farm-auto-respawn-more-script/">SPTS : Origin Auto Farm, Auto Respawn, More Script</a></li>
 <li><a href="https://rbloxscripts.com/spts-origin-gammahub-autofarm-kill-all-etc-script/">SPTS : Origin GammaHub, Autofarm, Kill All, Etc Script</a></li>
@@ -547,8 +575,6 @@
 </ul><h3>STEEP STEPS</h3>
 <ul><li><a href="https://rbloxscripts.com/steep-steps-auto-farm-script/">STEEP STEPS Auto Farm Script</a></li>
 <li><a href="https://rbloxscripts.com/steep-steps-op-gui-script/">STEEP STEPS OP GUI Script</a></li>
-</ul><h3>Saisei</h3>
-<ul><li><a href="https://rbloxscripts.com/saisei-fast-swing-no-sturn-more-script/">Saisei Fast Swing, No Sturn, More Script</a></li>
 </ul><h3>Scale Man</h3>
 <ul><li><a href="https://rbloxscripts.com/scale-man-fling-and-size-script/">Scale Man Fling and Size Script</a></li>
 </ul><h3>SharkBite 2</h3>
@@ -560,15 +586,9 @@
 </ul><h3>Shindo Life</h3>
 <ul><li><a href="https://rbloxscripts.com/shindo-life-inf-rell-coins-script/">Shindo Life Inf Rell Coins Script</a></li>
 <li><a href="https://rbloxscripts.com/shindo-life-infinite-spins-max-rank-script/">Shindo Life Infinite Spins &#038; Max Rank Script</a></li>
-</ul><h3>Shrek in the Backrooms</h3>
-<ul><li><a href="https://rbloxscripts.com/shrek-in-the-backrooms-auto-farm-coins-script/">Shrek in the Backrooms Auto Farm Coins Script</a></li>
-</ul><h3>Shuudan</h3>
-<ul><li><a href="https://rbloxscripts.com/shuudan-speed-script/">Shuudan Speed Script</a></li>
 </ul><h3>Site 006 Roleplay</h3>
 <ul><li><a href="https://rbloxscripts.com/site-006-roleplay-god-mode-script/">Site 006 Roleplay God Mode Script</a></li>
 <li><a href="https://rbloxscripts.com/site-006-roleplay-gun-mod-script/">Site 006 Roleplay Gun Mod Script</a></li>
-</ul><h3>Slap Battles</h3>
-<ul><li><a href="https://rbloxscripts.com/slap-battles-candy-farm-script/">Slap Battles Candy Farm Script</a></li>
 </ul><h3>Slasher Blade</h3>
 <ul><li><a href="https://rbloxscripts.com/slasher-blade-auto-farm-gems-script/">Slasher Blade Auto Farm Gems Script</a></li>
 </ul><h3>Smoothie Factory Tycoon</h3>
@@ -579,6 +599,11 @@
 </ul><h3>Son Goku: The Finale</h3>
 <ul><li><a href="https://rbloxscripts.com/son-goku-the-finale-autofarm-script/">Son Goku: The Finale Autofarm Script</a></li>
 <li><a href="https://rbloxscripts.com/son-goku-the-finale-unlock-super-saiyan-forms-script/">Son Goku: The Finale Unlock Super Saiyan Forms Script</a></li>
+</ul><h3>Soul Cultivation</h3>
+<ul><li><a href="https://rbloxscripts.com/soul-cultivation-autofarm-bandit-leader-script/">Soul Cultivation AutoFarm bandit leader Script</a></li>
+<li><a href="https://rbloxscripts.com/soul-cultivation-divine-yang-fruit-farm-script/">Soul Cultivation Divine Yang Fruit Farm Script</a></li>
+<li><a href="https://rbloxscripts.com/soul-cultivation-divine-yin-fruit-farm-script/">Soul Cultivation Divine Yin Fruit Farm Script</a></li>
+<li><a href="https://rbloxscripts.com/soul-cultivation-ginseng-farm-script/">Soul Cultivation Ginseng Farm Script</a></li>
 </ul><h3>Space Station Infinity</h3>
 <ul><li><a href="https://rbloxscripts.com/space-station-infinity-research-all-script/">Space Station Infinity Research All Script</a></li>
 </ul><h3>Speed Run 4</h3>
@@ -648,6 +673,10 @@
 <li><a href="https://rbloxscripts.com/tower-battles-defensive-holds-head-hitbox-script/">Tower Battles: Defensive Holds Head Hitbox Script</a></li>
 </ul><h3>Tower Defence Tycoon</h3>
 <ul><li><a href="https://rbloxscripts.com/tower-defence-tycoon-inf-money-script/">Tower Defence Tycoon Inf Money Script</a></li>
+</ul><h3>Tower of Hell</h3>
+<ul><li><a href="https://rbloxscripts.com/tower-of-hell-god-mode-script/">Tower of Hell God Mode Script</a></li>
+</ul><h3>Toy SoldierZ</h3>
+<ul><li><a href="https://rbloxscripts.com/toy-soldierz-open-source-script/">Toy SoldierZ Open Source Script</a></li>
 </ul><h3>Trident Survival</h3>
 <ul><li><a href="https://rbloxscripts.com/trident-survival-esp-script/">Trident Survival ESP Script</a></li>
 </ul><h3>Tsunami Disaster Survival</h3>
@@ -675,6 +704,9 @@
 <ul><li><a href="https://rbloxscripts.com/westbound-spread-max-ammo-fast-reload-etc-script/">Westbound Spread, Max Ammo, Fast Reload, Etc Script</a></li>
 </ul><h3>Winds of Fortune</h3>
 <ul><li><a href="https://rbloxscripts.com/winds-of-fortune-gui-inf-money-kill-all-etc-script/">Winds of Fortune GUI, Inf money, Kill All, Etc Script</a></li>
+</ul><h3>Wisteria 2</h3>
+<ul><li><a href="https://rbloxscripts.com/wisteria-2-auto-gourd-script/">Wisteria 2 Auto Gourd Script</a></li>
+<li><a href="https://rbloxscripts.com/wisteria-2-remove-sun-burn-script/">Wisteria 2 Remove Sun Burn Script</a></li>
 </ul><h3>Work at a Pizza Place</h3>
 <ul><li><a href="https://rbloxscripts.com/work-at-a-pizza-place-cashier-auto-farm-script/">Work at a Pizza Place Cashier Auto Farm Script</a></li>
 </ul><h3>World Zero</h3>
@@ -696,10 +728,8 @@
 <li><a href="https://rbloxscripts.com/your-bizarre-adventure-stand-farm-script/">Your Bizarre Adventure Stand Farm Script</a></li>
 </ul><h3>ZO</h3>
 <ul><li><a href="https://rbloxscripts.com/zo-auto-parry-script/">ZO Auto Parry Script</a></li>
-</ul><h3>Zeppelin Wars</h3>
-<ul><li><a href="https://rbloxscripts.com/zeppelin-wars-inf-ammo-script/">Zeppelin Wars Inf Ammo Script</a></li>
-</ul><h3>Zombie Attack</h3>
-<ul><li><a href="https://rbloxscripts.com/zombie-attack-silent-aim-script/">Zombie Attack Silent Aim Script</a></li>
+<li><a href="https://rbloxscripts.com/zo-eggs-esp-script/">ZO Eggs ESP Script</a></li>
+<li><a href="https://rbloxscripts.com/zo-eggs-farm-script/">ZO Eggs Farm Script</a></li>
 </ul><h3>Zombie Merge Tycoon</h3>
 <ul><li><a href="https://rbloxscripts.com/zombie-merge-tycoon-inf-money-script/">Zombie Merge Tycoon Inf Money Script</a></li>
 <li><a href="https://rbloxscripts.com/zombie-merge-tycoon-kill-all-with-pistol-script/">Zombie Merge Tycoon Kill All With Pistol Script</a></li>
